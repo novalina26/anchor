@@ -271,8 +271,8 @@
     "decimal.js": "^10.0.1",
     "dot-prop-immutable": "^1.4.0",
     "electron-context-menu": "^0.10.0",
-    "electron-store": "^2.0.0",
-    "electron-updater": "^2.21.10",
+    "electron-store": "^6.0.0",
+    "electron-updater": "^6.3.4",
     "eosjs": "16.0.8",
     "eosjs2": "git://github.com/aaroncox/eosjs2",
     "history": "^4.7.2",
@@ -301,7 +301,7 @@
     "redux-electron-ipc": "^1.1.12",
     "redux-electron-store": "^0.6.2",
     "redux-persist": "^5.10.0",
-    "redux-persist-electron-storage": "^1.1.2",
+    "redux-persist-electron-storage": "^2.0.0",
     "redux-thunk": "^2.3.0"
   },
   "devEngines": {
